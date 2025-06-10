@@ -7,7 +7,7 @@ colorama==0.4.5
 cryptography==37.0.4
 fastapi==0.78.0
 greenlet==1.1.2
-h11==0.13.0
+h11==0.16.0
 idna==3.3
 passlib==1.7.4
 psycopg2==2.9.3
