@@ -36,7 +36,7 @@ passlib==1.7.4
 Pillow==9.2.0
 pluggy==1.0.0
 py==1.11.0
-pyasn1==0.4.8
+pyasn1==0.6.2
 pycares==4.2.1
 pycparser==2.21
 pydantic==1.9.1
