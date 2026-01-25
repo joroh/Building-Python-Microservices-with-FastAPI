@@ -10,7 +10,7 @@ h11==0.13.0
 idna==3.3
 passlib==1.7.4
 psycopg2==2.9.3
-pyasn1==0.4.8
+pyasn1==0.6.2
 pydantic==1.9.1
 PyJWT==2.4.0
 python-jose==3.3.0
